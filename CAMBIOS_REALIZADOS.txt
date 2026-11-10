@@ -1,0 +1,19 @@
+PROYECTO: Practica 1 Danna
+
+Modificaciones realizadas respecto al ZIP original:
+1. Carpeta raiz y nombre de Gradle: Practica 1 Danna.
+2. Nombre de la aplicacion: Practica 1 Danna.
+3. Paquete Java/ID de aplicacion: com.example.practica1danna.
+4. Eliminada la clase registrodeusuario.java y su layout activity_registrodeusuario.xml.
+5. Eliminado el registro de esa actividad en AndroidManifest.xml.
+6. Conservados SIN CAMBIOS VISUALES los XML de bienvenida e inicio de sesion y la logica original de sus actividades.
+7. Conservadas las bibliotecas, logos, configuraciones y archivos de pruebas, adaptando solo los nombres de paquete.
+8. Omitidas carpetas temporales/build, .git, .idea y local.properties para transferir el proyecto limpio. Android Studio las regenera.
+
+COMO ABRIR:
+1. Descomprime este ZIP.
+2. En Android Studio: File > Open > selecciona la carpeta Practica 1 Danna.
+3. Deja que Android Studio sincronice Gradle.
+4. Ejecuta la app.
+
+IMPORTANTE: el codigo original no tenia programada la navegacion entre Bienvenida e Inicio de sesion, ni la autenticacion de usuarios; esas funciones NO se han agregado para cumplir la instruccion de conservar el codigo original.
