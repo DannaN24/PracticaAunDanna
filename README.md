@@ -6,7 +6,7 @@ El objetivo es familiarizarse con la creación de actividades en Android Studio 
 
 ## Capturas de pantalla
 
-\<div align="center">
+<div align="center">
   <img src="Screenshot_20261110_000846.png" alt="Pantalla de bienvenida" width="300"/>
   &nbsp;&nbsp;&nbsp;
   <img src="Screenshot_20261110_000704.png" alt="Pantalla de inicio de sesión" width="300"/>
