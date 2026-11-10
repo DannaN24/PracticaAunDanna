@@ -37,18 +37,3 @@ La interfaz está dividida en dos actividades:
 - **Recursos gráficos:** imágenes institucionales almacenadas en `res/drawable`.
 - **Configuración:** `AndroidManifest.xml` para registrar las actividades y Gradle para las dependencias del proyecto.
 
-## Estructura principal del proyecto
-
-```text
-app/src/main/
-├── java/com/example/practica1danna/
-│   ├── MainActivity.java
-│   └── inicioseccion.java
-├── res/
-│   ├── layout/
-│   │   ├── activity_main.xml
-│   │   └── activity_inicioseccion.xml
-│   ├── drawable/
-│   └── values/
-└── AndroidManifest.xml
-```
