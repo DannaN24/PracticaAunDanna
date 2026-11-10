@@ -6,15 +6,11 @@ El objetivo es familiarizarse con la creación de actividades en Android Studio 
 
 ## Capturas de pantalla
 
-### Pantalla de bienvenida
-
-<!-- Cuando tengas la captura, guárdala en la carpeta imagenes con el nombre bienvenida.png y elimina esta línea de comentario. -->
-![Pantalla de bienvenida](Screenshot_20261110_000846.png)
-
-### Pantalla de inicio de sesión
-
-<!-- Cuando tengas la captura, guárdala en la carpeta imagenes con el nombre inicio_sesion.png y elimina esta línea de comentario. -->
-![Pantalla de inicio de sesión](Screenshot_20261110_000704.png)
+\<div align="center">
+  <img src="Screenshot_20261110_000846.png" alt="Pantalla de bienvenida" width="300"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Screenshot_20261110_000704.png" alt="Pantalla de inicio de sesión" width="300"/>
+</div>
 
 ## Características
 
