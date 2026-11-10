@@ -23,7 +23,6 @@ La interfaz está dividida en dos actividades:
 - **Botón Entrar:** elemento visual que representa la acción de acceso a la aplicación.
 - **Diseño:** se emplean componentes de Material Design con bordes de estilo `OutlinedBox` y una combinación de colores verdes y fondo claro.
 
-> **Nota:** Esta práctica se enfoca en el diseño de interfaces. Los botones todavía no tienen navegación programada y no se ha implementado la validación de credenciales ni una base de datos.
 
 ## Detalles técnicos
 
